@@ -1,0 +1,9 @@
+[Adblock Plus]
+! Title: Pasky
+! Expires: 1 day
+! Last modified: 09 Jul 2025 15:26 UTC
+! Version: 2025.0709.1526.01
+! Syntax: AdBlock
+! Number of entries: 1
+!
+||my.despar.it^
