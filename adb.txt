@@ -4,6 +4,7 @@
 ! Last modified: 09 Jul 2025 15:26 UTC
 ! Version: 2025.0709.1526.01
 ! Syntax: AdBlock
-! Number of entries: 1
+! Number of entries: 2
 !
 @@||mydespar.it^
+@@||www.mydespar.it^
