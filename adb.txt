@@ -1,10 +1,10 @@
-[Adblock Plus]
+[AdGuard Home]
 ! Title: Pasky
 ! Expires: 1 day
 ! Last modified: 09 Jul 2025 15:26 UTC
 ! Version: 2025.0709.1526.01
-! Syntax: AdBlock
+! Syntax: AdGuard
 ! Number of entries: 2
 !
 @@||mydespar.it^
-@@||www.mydespar.it^
+@@||www.mydespar.it^$important
